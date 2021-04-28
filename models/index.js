@@ -5,5 +5,5 @@ const Inquiry_Model    = require('./Inquiry.js');
 module.exports = {
     User_Model,
     Order_Model,
-    Inquiry_Model    
+    Inquiry_Model
 };
