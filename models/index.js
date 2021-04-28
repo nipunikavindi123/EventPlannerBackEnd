@@ -6,4 +6,5 @@ module.exports = {
     User_Model,
     Order_Model,
     Inquiry_Model
+    
 };
